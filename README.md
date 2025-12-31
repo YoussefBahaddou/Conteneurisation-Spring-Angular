@@ -22,5 +22,3 @@ This project is a full-stack web application designed to manage smart home devic
     -   Frontend: `http://localhost:80`
     -   Backend API: `http://localhost:8085`
     -   phpMyAdmin: `http://localhost:8081`
-
-https://github.com/user-attachments/assets/74d655b2-90f6-4e34-89b1-52f8fbc65329
